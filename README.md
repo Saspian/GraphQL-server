@@ -13,8 +13,8 @@ Demo: https://glacial-brook-29255.herokuapp.com
 
 ## Available script
 We used a package called concurrent to run both the server and client side at different port at the same time. <br>
-Server is running on http:localhost:5000 <br>
-Client is running on http:localhost:3000 <br>
+Server is running on http://localhost:5000 <br>
+Client is running on http://localhost:3000 <br>
 
 ### `npm i`
 Installs node modules required for the project (Do it both on server and client)
